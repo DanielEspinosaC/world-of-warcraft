@@ -5,7 +5,8 @@
 <img src="imagenes/logolk.png">
 </p>
 Lanzada en **noviembre de 2008**, *Wrath of the Lich King* es la segunda expansión de *World of Warcraft*. Esta entrega lleva a los jugadores a **Rasganorte**, un continente helado dominado por **Arthas Menethil**, el temido *Rey Exánime*.
-
+<a href="https://www.youtube.com/watch?v=tyNgbHX9p2U">Tráiler Cinemático Wrath of the Lich King</a>
+<a href="https://www.youtube.com/watch?v=2AXpIG7uyFE&list=RD2AXpIG7uyFE&start_radio=1">De las mejores canciones que tiene la banda sonora de esta expansión</a>
 ## La historia
 
 Después de los sucesos de *The Burning Crusade*, el equilibrio del mundo vuelve a estar amenazado.  
