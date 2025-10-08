@@ -7,8 +7,9 @@
 ## El universo de Azeroth
 
 El mundo de *World of Warcraft* está compuesto por varios continentes —Kalimdor, los Reinos del Este, Terrallende y más adelante Rasganorte, cada uno con su propia historia, ecosistema y conflictos. Los jugadores pueden elegir entre **dos facciones principales**:
-<br>
-<img src="imagenes/WoW-Classic-Vanilla-Map.jpg" align=center>
+<p align="center">
+<img src="imagenes/WoW-Classic-Vanilla-Map.jpg">
+</p>
 - **La Alianza:** compuesta por razas como humanos, enanos, elfos de la noche y draenei.  
 - **La Horda:** integrada por orcos, trols, tauren, no-muertos y elfos de sangre.
 
@@ -17,11 +18,15 @@ Cada facción tiene su propio estilo, cultura y objetivos, lo que crea una rival
 ## Clases y progresión
 
 Los jugadores crean su propio héroe, eligiendo una **raza** y una **clase**, como guerrero, mago, cazador o sacerdote. A medida que ganan experiencia, suben de nivel, adquieren nuevas habilidades y equipo, y participan en misiones, mazmorras y batallas contra otros jugadores.
-<img src="imagenes/clases.jpg" align=center>
+<p align="center">
+<img src="imagenes/clases.jpg">
+</p>
 ## Expansiones y evolución del juego
 
 Desde su lanzamiento, *World of Warcraft* ha recibido varias expansiones que amplían su historia y contenido. 
-<img src="imagenes/expansiones.png" align=center>
+<p align="center">
+<img src="imagenes/expansiones.png">
+</p>
 Tras el éxito de *The Burning Crusade* (2007), Blizzard lanzó una de las expansiones más queridas por los fans:
 
  **Wrath of the Lich King** (2008)  
