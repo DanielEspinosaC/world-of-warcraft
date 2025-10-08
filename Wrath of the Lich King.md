@@ -1,7 +1,9 @@
 <body style="background-color:#1e1e2f; color:#ffffff;">
 </body>
 # *Wrath of the Lich King* — La Ira del Rey Exánime
-<img src="imagenes/logolk.png" align="center">
+<p align="center">
+<img src="imagenes/logolk.png">
+</p>
 Lanzada en **noviembre de 2008**, *Wrath of the Lich King* es la segunda expansión de *World of Warcraft*. Esta entrega lleva a los jugadores a **Rasganorte**, un continente helado dominado por **Arthas Menethil**, el temido *Rey Exánime*.
 
 ## La historia
