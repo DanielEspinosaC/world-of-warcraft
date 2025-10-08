@@ -1,5 +1,5 @@
 # *Wrath of the Lich King* — La Ira del Rey Exánime
-
+<img src="imagenes/logolk.png">
 Lanzada en **noviembre de 2008**, *Wrath of the Lich King* es la segunda expansión de *World of Warcraft*. Esta entrega lleva a los jugadores a **Rasganorte**, un continente helado dominado por **Arthas Menethil**, el temido *Rey Exánime*.
 
 ## La historia
@@ -15,14 +15,14 @@ Su ejército de muertos vivientes, el **Azote**, busca arrasar con toda forma de
 - **Tundra Boreal:** zona costera donde la guerra entre facciones se intensifica.  
 - **Corona de Hielo:** el territorio del Rey Exánime, coronado por la Ciudadela de la Corona de Hielo.  
 - **Bosque Canto de Cristal, Zul'Drak y Toravon:** regiones que muestran la lucha entre la vida y el Azote.
-
+<img src="imagenes/rasganorte.jpg" align="center">
 ## Novedades principales
 
 - **Nueva clase heroica:** el **Caballero de la Muerte**, el primer héroe inicial de nivel 55.  
 - **Nuevas profesiones y mazmorras:** como las forjas de Ulduar o la épica *Ciudadela de la Corona de Hielo*.  
 - **Sistema de logros:** se introducen los logros, que recompensan la exploración y la dedicación.  
 - **Monturas voladoras en Rasganorte:** una de las mejoras más esperadas.  
-
+<img src="imagenes/lichking.jpg" align="center">
 ## Legado
 
 *Wrath of the Lich King* es considerada por muchos jugadores como la **época dorada de WoW**, gracias a su equilibrio entre narrativa, dificultad y contenido.  
