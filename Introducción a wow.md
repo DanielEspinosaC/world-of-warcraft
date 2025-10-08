@@ -4,7 +4,8 @@
 
 ## El universo de Azeroth
 
-El mundo de *World of Warcraft* está compuesto por varios continentes —Kalimdor, los Reinos del Este, Terrallende y más adelante Rasganorte—, cada uno con su propia historia, ecosistema y conflictos. Los jugadores pueden elegir entre **dos facciones principales**:
+El mundo de *World of Warcraft* está compuesto por varios continentes —Kalimdor, los Reinos del Este, Terrallende y más adelante Rasganorte, cada uno con su propia historia, ecosistema y conflictos. Los jugadores pueden elegir entre **dos facciones principales**:
+<br>
 <img src="imagenes/WoW-Classic-Vanilla-Map.jpg">
 - **La Alianza:** compuesta por razas como humanos, enanos, elfos de la noche y draenei.  
 - **La Horda:** integrada por orcos, trols, tauren, no-muertos y elfos de sangre.
