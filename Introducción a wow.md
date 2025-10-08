@@ -3,7 +3,8 @@
 # Introducción a *World of Warcraft*
 <img src="imagenes/World_of_Warcraft_Logo.png">
 *World of Warcraft* (WoW) es un MMORPG (juego de rol multijugador masivo en línea) desarrollado por Blizzard Entertainment. Lanzado en 2004, el juego transporta a los jugadores al mundo fantástico de **Azeroth**, un universo poblado por razas, reinos, guerras y magia ancestral.
-
+<a href="https://www.youtube.com/watch?v=cKfuo3uOLGs">Tráiler Cinemático World of Warcraft</a>
+ 
 ## El universo de Azeroth
 
 El mundo de *World of Warcraft* está compuesto por varios continentes —Kalimdor, los Reinos del Este, Terrallende y más adelante Rasganorte, cada uno con su propia historia, ecosistema y conflictos. Los jugadores pueden elegir entre **dos facciones principales**:
