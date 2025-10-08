@@ -1,4 +1,5 @@
 <body style="background-color:#1e1e2f; color:#ffffff;">
+</body>
 # Introducción a *World of Warcraft*
 <img src="imagenes/World_of_Warcraft_Logo.png">
 *World of Warcraft* (WoW) es un MMORPG (juego de rol multijugador masivo en línea) desarrollado por Blizzard Entertainment. Lanzado en 2004, el juego transporta a los jugadores al mundo fantástico de **Azeroth**, un universo poblado por razas, reinos, guerras y magia ancestral.
@@ -24,4 +25,3 @@ Tras el éxito de *The Burning Crusade* (2007), Blizzard lanzó una de las expan
 
  **Wrath of the Lich King** (2008)  
  Una nueva era oscura se aproxima desde el gélido norte…
-</body>
