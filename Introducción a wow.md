@@ -30,4 +30,4 @@ Desde su lanzamiento, *World of Warcraft* ha recibido varias expansiones que amp
 Tras el éxito de *The Burning Crusade* (2007), Blizzard lanzó una de las expansiones más queridas por los fans:
 
  **Wrath of the Lich King** (2008)  
-<a href="Wrath of the Lich King.md">Una nueva era oscura se aproxima desde el gélido norte…</a>
+<a href="Wrath of the Lich King">Una nueva era oscura se aproxima desde el gélido norte…</a>
