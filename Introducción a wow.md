@@ -20,5 +20,5 @@ Los jugadores crean su propio héroe, eligiendo una **raza** y una **clase**, co
 Desde su lanzamiento, *World of Warcraft* ha recibido varias expansiones que amplían su historia y contenido.  
 Tras el éxito de *The Burning Crusade* (2007), Blizzard lanzó una de las expansiones más queridas por los fans:
 
-> **Wrath of the Lich King** (2008)  
-> Una nueva era oscura se aproxima desde el gélido norte…
+ **Wrath of the Lich King** (2008)  
+ Una nueva era oscura se aproxima desde el gélido norte…
