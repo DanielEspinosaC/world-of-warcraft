@@ -1,6 +1,6 @@
 <body style="background-color:#1e1e2f; color:#ffffff;">
 </body>
-# *Wrath of the Lich King* — La Ira del Rey Exánime           <a href="Introducción a wow">Vuelve atrás</a>
+# *Wrath of the Lich King* — La Ira del Rey Exánime           <a href="README">Vuelve atrás</a>
 <p align="center">
 <img src="imagenes/logolk.png">
 </p>
